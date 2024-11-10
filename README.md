@@ -14,7 +14,7 @@ Eu sou Atilla Rodrigues, um estudante de programação Full-Stack, estou aprende
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atillarodrigues&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
