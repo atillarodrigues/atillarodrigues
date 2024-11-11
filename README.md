@@ -8,16 +8,16 @@ Eu sou Atilla Rodrigues, um estudante de programação Full-Stack, estou aprende
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atillarodrigues&show_icons=true&theme=transparent)
+[<br>
 
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atillarodrigues&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
+
+
+<br>](url)
 
 Informações de contato:
 
